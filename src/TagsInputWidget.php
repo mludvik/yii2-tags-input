@@ -1,6 +1,6 @@
 <?php
 /**
- * @link http://www.yiiframework.com/
+ * @author Martin Ludvik <matolud@gmail.com>
  * @copyright Copyright (c) 2018 Martin Ludvik
  * @license https://opensource.org/licenses/MIT MIT License
  */
